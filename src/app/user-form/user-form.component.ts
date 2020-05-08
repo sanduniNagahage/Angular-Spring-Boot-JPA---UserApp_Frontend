@@ -27,7 +27,7 @@ export class UserFormComponent {
   }
 
   goToUserList() {
-    this.router.navigate(['/user']);
+    this.router.navigate(['/users']);
   }
 
 }
